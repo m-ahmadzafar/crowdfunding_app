@@ -1,0 +1,45 @@
+software: crowdfunding software.
+
+Homepage:
+    nav:
+        - search bar
+        - buttons { home, about, sign up, sign in}
+        
+    blocks:
+        - hero block
+        - about us {learn more}
+        - start a campaign
+        - see campaigns
+        - testimonials
+        - footer
+Sign up:
+    - mui
+
+Sign in: 
+    - mui
+
+Campaigns:
+    - nav {ditto}
+    - search Campaigns
+    - top/featured campaigns
+    - filter and sorting options
+    - categories
+    - make your own
+
+
+--------------------------------------
+Backend
+    - server:
+        - api calls
+        - 
+
+
+MERN 
+
+Frontend:
+react. jsx. axios. react-router-dom 
+
+Backend:
+express mongooose cors body-parser . server.js
+
+
