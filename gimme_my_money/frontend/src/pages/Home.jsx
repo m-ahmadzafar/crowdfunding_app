@@ -1,9 +1,9 @@
-import AboutBlock from "./home_blocks/AboutBlock";
-import FooterBlock from "./home_blocks/FooterBlock";
-import HeroSection from "./home_blocks/HeroSection";
-import NavBlock from "./home_blocks/NavBlock";
-import StartCampBlock from "./home_blocks/StartCampBlock";
-import TestimonialBlock from "./home_blocks/TestimonialBlock";
+import AboutBlock from "./AboutBlock";
+import FooterBlock from "./FooterBlock";
+import HeroSection from "./HeroSection";
+import NavBlock from "./NavBlock";
+import StartCampBlock from "./StartCampBlock";
+import TestimonialBlock from "./TestimonialBlock";
 
 
 const Home = () => {

@@ -1,8 +1,8 @@
 import React from 'react';
 import { Box, Typography, Button, Grid, Paper, List, ListItem, ListItemText } from '@mui/material';
 import { Link } from 'react-router-dom';
-import NavBlock from './home_blocks/NavBlock';
-import FooterBlock from './home_blocks/FooterBlock';
+import NavBlock from './NavBlock';
+import FooterBlock from './FooterBlock';
 const CampaignDetails = ({ campaign }) => {
 
   // props use title, amountRaised, goal, contributors, description, paymentMethods

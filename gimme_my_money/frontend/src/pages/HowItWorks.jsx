@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Container, Typography, Grid, Paper, Box, Button } from '@mui/material';
-import NavBlock from './home_blocks/NavBlock';
-import FooterBlock from './home_blocks/FooterBlock';
+import NavBlock from './NavBlock';
+import FooterBlock from './FooterBlock';
 import { Link } from 'react-router-dom';
 
 export default function HowItWorks() {

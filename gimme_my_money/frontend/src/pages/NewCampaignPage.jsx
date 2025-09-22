@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, TextField, Button, Typography, Grid, Box } from '@mui/material';
-import NavBlock from './home_blocks/NavBlock';
-import FooterBlock from './home_blocks/FooterBlock';
+import NavBlock from './NavBlock';
+import FooterBlock from './FooterBlock';
 
 const NewCampaignPage = () => {
   return (

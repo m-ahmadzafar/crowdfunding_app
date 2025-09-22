@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Container, Typography, Grid, TextField, Button, Paper, Box } from '@mui/material';
-import FooterBlock from './home_blocks/FooterBlock';
-import NavBlock from './home_blocks/NavBlock';
+import FooterBlock from './FooterBlock';
+import NavBlock from './NavBlock';
 
 export default function Contact() {
   return (

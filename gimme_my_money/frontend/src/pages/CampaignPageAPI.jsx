@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import CampaignDetails from './CampaignDetails';
-import NavBlock from './home_blocks/NavBlock';
-import FooterBlock from './home_blocks/FooterBlock';
+import NavBlock from './NavBlock';
+import FooterBlock from './FooterBlock';
 import { Box } from '@mui/material';
 
 const CampaignPageAPI = () => {

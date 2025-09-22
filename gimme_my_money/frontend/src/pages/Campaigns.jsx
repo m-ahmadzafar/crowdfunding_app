@@ -1,8 +1,8 @@
 import { Container } from "@mui/material";
-import FeaturedBlock from "./camp_blocks/FeaturedBlock";
-import FooterBlock from "./home_blocks/FooterBlock";
-import NavBlock from "./home_blocks/NavBlock";
-import StartCampBlock from "./home_blocks/StartCampBlock";
+import FeaturedBlock from "./FeaturedBlock";
+import FooterBlock from "./FooterBlock";
+import NavBlock from "./NavBlock";
+import StartCampBlock from "./StartCampBlock";
 
 
 const Campaigns = () => {
